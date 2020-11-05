@@ -23,7 +23,7 @@ def printer(names)
     puts key
   
     
-  end
+  
 end
 
 # The method `printer` should output first the results of the batch_badge_creator method and then of the assign_rooms method to the screen - this way you can output
