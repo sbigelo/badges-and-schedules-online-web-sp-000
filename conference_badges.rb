@@ -18,13 +18,13 @@ def assign_rooms(list)
 end
 end
 
-def printer(names)
-  batch_badge_creator(names).each do |key|
-    puts key
+# def printer(names)
+#   batch_badge_creator(names).each do |key|
+#     puts key
   
     
-  end
-end
+#   end
+# end
 
 
 def printer(attendees)
