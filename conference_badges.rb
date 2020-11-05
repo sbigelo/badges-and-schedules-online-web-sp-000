@@ -19,7 +19,8 @@ end
 end
 
 def printer(names)
-  batch_badge_creator(names)
+  batch_badge_creator(names).each do |key|
+    print key
   
     
   end
