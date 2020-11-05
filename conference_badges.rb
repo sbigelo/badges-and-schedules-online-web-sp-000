@@ -6,7 +6,7 @@ end
 
 def batch_badge_creator(names)
    names.map do |key|
-     
+     "Hello, my name is #{key}."
      
    end
 end
