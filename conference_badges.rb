@@ -20,7 +20,7 @@ end
 
 def printer(names)
   batch_badge_creator(names)
-  attendees.each do |key|
+  
     
   end
 end
