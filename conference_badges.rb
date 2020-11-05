@@ -23,7 +23,7 @@ def printer(names)
   
   assign_rooms(names).each do |key1|
     
-    
+  end
   end
 end
 
