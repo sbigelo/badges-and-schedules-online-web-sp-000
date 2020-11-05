@@ -19,3 +19,6 @@ end
 end
 
 def printer(attendees)
+  attendees.each do |key|
+    
+end
