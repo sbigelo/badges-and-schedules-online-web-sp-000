@@ -5,8 +5,10 @@ def badge_maker(names)
 end
 
 def batch_badge_creator(names)
-   names.map 
-   
+   names.map do |key|
+     
+     
+   end
 end
 
 def assign_rooms(list)
