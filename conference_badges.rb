@@ -20,10 +20,10 @@ end
 
 def printer(names)
   batch_badge_creator(names).each do |key|
-    puts key
+    puts assign_rooms(key)
   
     
-  
+  end
 end
 
 # The method `printer` should output first the results of the batch_badge_creator method and then of the assign_rooms method to the screen - this way you can output
